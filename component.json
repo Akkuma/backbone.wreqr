@@ -25,7 +25,7 @@
     "web": "http://derickbailey.lostechies.com"
   },
   "dependencies": {
-    "virtru-components/backbone": "*",
+    "virtru-components/backbone": "1.1.0",
     "virtru-components/underscore": "*"
   },
   "main": "lib/amd/backbone.wreqr.js",
