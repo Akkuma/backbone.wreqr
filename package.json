@@ -3,7 +3,7 @@
   "description": "A Simple Service Bus For Backbone and Backbone.Marionette",
   "version": "0.2.2",
   "dependencies": {
-    "virtru-components/backbone": "1.1.5",
-    "virtru-components/underscore": "1.4.5"
+    "backbone": "git+ssh://git@github.com:virtru-components/backbone.git#1.1.5",
+    "underscore": "git+ssh://git@github.com:virtru-components/underscore.git#1.4.5"
   }
 }
