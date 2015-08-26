@@ -4,7 +4,7 @@
   "version": "0.2.2",
   "main": "./lib/amd/backbone.wreqr.js",
   "dependencies": {
-    "backbone": "git+ssh://git@github.com:virtru-components/backbone.git#1.1.5",
+    "backbone": "git+ssh://git@github.com:Akkuma/backbone.git#patch-1",
     "underscore": "git+ssh://git@github.com:virtru-components/underscore.git#1.4.5"
   }
 }
